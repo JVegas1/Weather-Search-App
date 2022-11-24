@@ -17,5 +17,8 @@ root.render(
         </p>
     </div>
     </div>
+    <footer> 
+  <a href="https://github.com/JVegas1/Weather-Search-App">
+  GitHub Repository-JVegas1 </a> </footer>
   </StrictMode>
 );
