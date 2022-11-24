@@ -2,3 +2,22 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+li {
+  text-decoration: none;
+  list-style: none;
+}
+body {
+  background: rgb(206, 206, 238);
+  text-align: center;
+}
+footer {
+text-align: center;
+text-decoration: none;
+}
+a:hover {
+color: lightslategrey;
+}
+a::after {
+  color: black;
+}

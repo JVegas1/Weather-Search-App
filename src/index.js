@@ -1,6 +1,7 @@
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import Search from "./Search";
+import ReactAnimatedWeather from "react-animated-weather";
 
 import "./styles.css";
 
@@ -15,10 +16,8 @@ root.render(
         <p>
           Enter City <Search />
         </p>
+        
+      </div>
     </div>
-    </div>
-    <footer> 
-  <a href="https://github.com/JVegas1/Weather-Search-App">
-  GitHub Repository-JVegas1 </a> </footer>
   </StrictMode>
 );
