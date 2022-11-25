@@ -20,7 +20,7 @@ root.render(
       </div>
     </div>
     <footer>
-      Coded by J. Vegas and Hosted on <a href=""> Netlify</a>/ <a href="https://github.com/JVegas1/Weather-Search-App">GitHub </a>
+      Coded by J. Vegas and Hosted on <a href="https://main--prismatic-hummingbird-e3a520.netlify.app/"> Netlify</a>/ <a href="https://github.com/JVegas1/Weather-Search-App">GitHub </a>
     </footer>
   </StrictMode>
 );
